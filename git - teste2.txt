@@ -1,0 +1,2 @@
+#Novo Arquivo criado no commit do Alteracao 06-
+#Este arquivo será enviado na Alteracao 07-
