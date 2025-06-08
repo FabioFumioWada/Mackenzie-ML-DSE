@@ -1,0 +1,23 @@
+#Postgree
+
+-- Verificar o serviço do Postgree
+brew services list
+
+
+#Git Hub
+
+-- Enviar alterações para o git
+git add .
+git add -u
+git commit -m "Mensagem"
+git push origin <branch>
+
+
+engine = create_engine(f'postgresql://sa:{psw}@localhost:5432/db_mba')
+    conn = psycopg2.connect(
+        #host='database-ml.c2xa0ayeki50.us-east-1.rds.amazonaws.com',
+        host='localhost',
+        port=5432,
+        database='db_mba',
+        user='sa',
+        password= psw
