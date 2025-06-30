@@ -1,0 +1,21 @@
+Resulatdo do teste Qui-Quadrado
+==================================
+
+Tabela de Contingência:
+          Bebida A  Bebida B
+Cidade X        60        40
+Cidade Y        30        70
+
+Estatística do teste Qui-Quadrado: 16.9899
+Teste Qui-Quadrado (Valor) 0.0000
+Graus de liberdade: 1
+
+Acompanhamento Estimado:
+          Bebida A  Bebida B
+Cidade X      45.0      55.0
+Cidade Y      45.0      55.0
+
+Interpretação:
+Como o valor-p (0.0000) é menor que o nível de significância (0.05),
+rejeitamos a hipótese nula de independência.
+Conclusão: Há evidências estatísticas de que a preferência pela bebida depende da cidade.

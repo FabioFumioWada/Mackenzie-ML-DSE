@@ -1,0 +1,21 @@
+Resultados do Teste t de Student
+===============================
+
+Estatísticas:
+Grupo A: Média = 73.62, Desvio Padrão = 7.68
+Grupo B: Média = 78.15, Desvio Padrão = 6.79
+
+Distribuição Normal (Stats.Shapiro):
+Grupo A: estatística=0.9744, p-valor=0.8438
+Grupo B: estatística=0.9703, p-valor=0.7618
+
+Dispersão dos Dados (Stats.Levene):
+Estatística=0.2463, p-valor=0.6225
+
+Resultado do Teste t de Student:
+Resultado do Teste t (Estatístico):: -1.9771
+Resultado do Teste t (Valor): 0.0553
+Disponibilidade: 38
+Alpha (α): 0.05
+
+Não foram apresentados probabilidades estatísticas de diferenças entre as médias dos dois grupos.
